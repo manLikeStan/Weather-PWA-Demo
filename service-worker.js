@@ -18,7 +18,7 @@ var filesToCache = [
   '/images/thunderstorm.png',
   '/images/wind.png'
 ];
-var dataCacheName = 'weatherData-v1';
+var dataCacheName = 'weatherData-v2';
 
 
 self.addEventListener('install', function(e) {
